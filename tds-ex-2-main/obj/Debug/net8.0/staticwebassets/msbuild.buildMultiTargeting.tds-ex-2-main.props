@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tds-ex-2-main.props" />
+</Project>
